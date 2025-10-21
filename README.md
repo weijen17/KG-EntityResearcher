@@ -1,7 +1,7 @@
 # KG-EntityResearcher
 
-Perform research on entities, and build entity KG framework using research results.\n
-A two-agent system using LangGraph where a Researcher agent performs web searches using Serper API and an Analyst agent churning final result.
+- Perform research on entities, and build entity KG framework using research results.
+- A two-agent system using LangGraph where a Researcher agent performs web searches using Serper API and an Analyst agent churning final result.
 
 ## Features
 
