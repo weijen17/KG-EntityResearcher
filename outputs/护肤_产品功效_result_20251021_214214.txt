@@ -1,0 +1,9 @@
+SUBJECT: 产品功效
+INDUSTRY: 护肤
+DATE: 2025-10-21 21:42:14
+
+======================================================================
+
+{'results': {'保湿类': [{'entity_level2': '深层滋养', 'keywords': ['保湿', '滋润', '补水', '锁水']}, {'entity_level2': '舒缓干燥', 'keywords': ['舒缓', '修复屏障']}], '抗衰老类': [{'entity_level2': '抗皱', 'keywords': ['抗皱', '紧致', '提升']}, {'entity_level2': '抗氧化', 'keywords': ['抗氧化', '促进胶原蛋白生成', '改善肤色']}], '美白类': [{'entity_level2': '祛斑', 'keywords': ['美白', '淡化色斑', '均匀肤色']}, {'entity_level2': '提亮肤色', 'keywords': ['提亮', '去黄', '抑制黑色素生成']}], '防晒类': [{'entity_level2': '抗紫外线', 'keywords': ['防晒', 'SPF', 'PA值']}, {'entity_level2': '抵御蓝光', 'keywords': ['保护皮肤免受日晒伤害']}], '清洁类': [{'entity_level2': '深层清洁', 'keywords': ['洁面', '去角质', '控油']}, {'entity_level2': '净化毛孔', 'keywords': ['去黑头', '清爽']}]}}
+
+
